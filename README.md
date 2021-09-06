@@ -13,7 +13,7 @@
 
 </p>
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
-<p align="center">Techs that I've used in projects</p>
+<p align="center">Techs that I've used at least in projects</p>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/K8S-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>&nbsp
