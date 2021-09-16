@@ -9,7 +9,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjoh0704">
 
 - 📌 I’m interested in `Cloud`, `Devops`
-- 🌱 I’m currently learning `Ansible`, `K8S`, `Algorithm`
+- 🌱 I’m currently learning `Ansible`, `Algorithm`
 - 🥇 I majored in `IT Fusion` 
 
 
