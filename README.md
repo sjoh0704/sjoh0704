@@ -1,19 +1,29 @@
+# SeungJu 😀
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhaesoo9410&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/sjoh0704) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:sjoh070456@gmail.com) 
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://seungjuitmemo.tistory.com/)
 
   
-   <div align="right">
+### Who Am I
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjoh0704">
+
+- 📌 I’m interested in `Cloud`, `Devops`
+- 🌱 I’m currently learning `Ansible`, `K8S`, `Algorithm`
+- 🥇 I majored in `IT Fusion` 
+
+
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=sjoh0704" height="165"> -->
+
+<!--    <div align="right">
 	
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-  </div>
-
-### Hi, there! 😀
-I'm studying Devops and Cloud now! 
+  </div> -->
 
 <br/>
-
-  <a href="#"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sjoh0704"/></a> 
-  <a href="https://seungjuitmemo.tistory.com/"><img src="https://img.shields.io/badge/TStory-FF4785?style=flat-square&logo=Storyblok&logoColor=white"/>  
-
+<!--   <a href="#"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=sjoh0704"/></a>  -->
+<!--   <a href="https://seungjuitmemo.tistory.com/"><img src="https://img.shields.io/badge/TStory-FF4785?style=flat-square&logo=Storyblok&logoColor=white"/>   -->
 <br/>
 	
 [To See More About Me](https://elfin-wound-3b8.notion.site/aa95ad3046a54e658911098d6c28a76a "to see about me more!")  
