@@ -26,7 +26,7 @@
 <!--   <a href="https://seungjuitmemo.tistory.com/"><img src="https://img.shields.io/badge/TStory-FF4785?style=flat-square&logo=Storyblok&logoColor=white"/>   -->
 <br/>
 	
-### [To See More About Me](https://elfin-wound-3b8.notion.site/aa95ad3046a54e658911098d6c28a76a "to see about me more!")  
+## [To See More About Me](https://elfin-wound-3b8.notion.site/aa95ad3046a54e658911098d6c28a76a "to see about me more!")  
 
 
 <!-- </p>
